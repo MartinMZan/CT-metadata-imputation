@@ -27,6 +27,7 @@ platformdirs==3.5.0
 prompt-toolkit==3.0.38
 psutil==5.9.5
 pure-eval==0.2.2
+pydicom==2.3.1
 Pygments==2.15.1
 pyparsing==3.0.9
 python-dateutil==2.8.2
